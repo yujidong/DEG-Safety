@@ -46,7 +46,7 @@ numpy>=1.24
 scipy>=1.10
 ```
 
-GPU with >= 8GB VRAM required for NLI inference (DeBERTa-v3-large).
+GPU with >= 4GB VRAM recommended for NLI inference (DeBERTa-v3-large, ~2.5GB at batch size 1).
 
 ## Quick Start
 
