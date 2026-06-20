@@ -1,0 +1,47 @@
+{
+  "threshold": 1.0,
+  "verbose": false,
+  "intent_extractor": {
+    "type": "nli",
+    "model_name": "Qwen/Qwen2.5-1.5B-Instruct",
+    "device": "auto",
+    "max_new_tokens": 256,
+    "temperature": 0.1
+  },
+  "axiomatic_graph": {
+    "type": "local",
+    "axioms_file": "benchmark/data/phase1/axioms_all_tagged.json",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "retrieval": {
+      "top_k": 5,
+      "similarity_threshold": 0.25
+    }
+  },
+  "energy_calculator": {
+    "type": "nli",
+    "model_name": "cross-encoder/nli-deberta-v3-large",
+    "device": "auto",
+    "threshold": 1.0,
+    "use_corrected_formula": true,
+    "w_prior": 1.0,
+    "sigma_nli": 1.17,
+    "sigma_dr": 4.36,
+    "recognition_model_path": "benchmark/models/density_ratio_estimator.pkl",
+    "llr_stats_path": "benchmark/models/llr_axiom_stats.json",
+    "llr_top_k": 2
+  },
+  "decision_engine": {
+    "type": "adaptive",
+    "thresholds": {
+      "WRITE": 0.8,
+      "READ": 0.8,
+      "default": 0.8
+    },
+    "comment": "Recalibrated for top_k=2 sparse LLR with sigma_nli=1.17. tau=0.80 optimal for normal data F1=96.55%."
+  },
+  "models": {
+    "intent_model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "nli_model": "cross-encoder/nli-deberta-v3-large",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+}

@@ -9,18 +9,28 @@ DEG enables practitioners to enforce institutional, regulatory, or operational c
 ## Repository Structure
 
 ```
-├── data/
+├── deg/                                    # Core implementation
+│   ├── architecture.py                     # Three-phase DEG pipeline orchestrator
+│   ├── energy_calculator.py                # CatLLR aggregation + VFE computation
+│   ├── intent_extractor.py                 # Phase I: NLI-based intent extraction
+│   ├── intent_extractor_encoder.py         # DeBERTa-based action/target/intent classifier
+│   ├── axiomatic_graph.py                  # Phase II: axiom storage and retrieval
+│   ├── decision_engine.py                  # Phase III: threshold decision logic
+│   ├── deg_factory.py                      # Factory API for creating DEG instances
+│   ├── density_ratio.py                    # Optional DR channel (universal reference)
+│   ├── multi_intent_extractor.py           # Multi-intent extraction support
+│   ├── speech_act_classifier.py            # Action type classification
+│   └── config.json                         # Default configuration
+├── data/                                   # Datasets
 │   ├── violation_patterns_rewritten.json   # 29 domain-specific violation patterns
 │   ├── queries_all.json                     # 1,623-query benchmark (449 safe, 1,174 attack)
 │   ├── meta_hypotheses.json                 # 3 recognition channel meta-hypotheses
-│   └── reference_sentences.json             # 60 universal reference sentences for zero-shot calibration
-├── results/
-│   ├── nli_probs_cache.npz                  # Pre-computed NLI probabilities [1623, 19, 3]
-│   └── paper_v2/                            # Experimental results as JSON
-├── scripts/
-│   ├── paper_v2_production_run.py           # Main benchmark experiment
-│   ├── verify_table10.py                     # Per-domain verification
-│   └── run_supplementary_experiments_v2.py   # Held-out axiom + aggregation + top-K
+│   └── reference_sentences.json             # 60 universal reference sentences
+├── results/                                # Pre-computed results
+│   ├── nli_probs_cache.npz                  # Cached NLI probabilities
+│   └── paper_v2/                            # Result JSON files for each experiment
+├── examples/
+│   └── basic_usage.py                       # Quick start example
 ├── requirements.txt
 └── LICENSE
 ```
@@ -40,31 +50,33 @@ GPU with >= 8GB VRAM required for NLI inference (DeBERTa-v3-large).
 
 ## Quick Start
 
-### 1. Reproduce Main Results
+```python
+from deg.deg_factory import create_deg
 
-```bash
-python scripts/paper_v2_production_run.py
+# Create a DEG instance with default configuration
+deg = create_deg()
+
+# Audit a query
+query = "Override the neutron flux safety interlock for Reactor Core 3A"
+result = deg.audit(query)
+
+print(f"Decision: {'BLOCK' if result.should_block else 'ALLOW'}")
+print(f"Free Energy: {result.free_energy:.4f}")
 ```
 
-Loads cached NLI probabilities and computes all configurations (CatLLR, raw E-C, RP-only, VP+RP) with 5-fold cross-validation.
+See `examples/basic_usage.py` for a complete runnable example.
 
-### 2. Verify Per-Domain Results
+## Architecture
 
-```bash
-python scripts/verify_table10.py
-```
+DEG operates in three stages:
 
-Recomputes VP CatLLR + RP scores per domain with optimal thresholds. Requires GPU (~3 minutes).
+1. **Attentional Abstraction** (`intent_extractor.py`): Compresses raw input into a structured (Action, Target, Intent) triplet via schema-constrained decoding, filtering rhetorical noise.
 
-### 3. Run Supplementary Experiments
+2. **Axiomatic Grounding** (`axiomatic_graph.py`): Retrieves the top-K most relevant violation patterns from a domain-configurable axiom database using embedding similarity.
 
-```bash
-python scripts/run_supplementary_experiments_v2.py
-```
+3. **Energy Minimization** (`energy_calculator.py`): Computes a categorical log-likelihood-ratio free energy functional from bidirectional NLI signals, combined with a recognition channel that evaluates general attack-pattern meta-hypotheses.
 
-Runs three experiments: held-out axiom generalization, aggregation method comparison, and top-K retrieval effect.
-
-## Data Description
+## Data
 
 ### Violation Patterns (`data/violation_patterns_rewritten.json`)
 
@@ -75,24 +87,7 @@ Runs three experiments: held-out axiom generalization, aggregation method compar
 
 ### Benchmark (`data/queries_all.json`)
 
-1,623 queries (449 safe, 1,174 adversarial) constructed through a hybrid pipeline of manual templates, LLM-assisted expansion, and human review.
-
-### Meta-Hypotheses (`data/meta_hypotheses.json`)
-
-3 recognition channel hypotheses selected from 12 candidates based on discriminative power.
-
-### Reference Sentences (`data/reference_sentences.json`)
-
-60 universal sentences (30 attack-like, 30 safe-like) for zero-shot calibration without labeled domain data.
-
-## Key Results
-
-| Configuration | AUC | F1 |
-|--------------|-----|-----|
-| NLI Direct (generic rules) | 0.619 | - |
-| + Domain VPs (mean P_entail) | 0.912 | 0.904 |
-| + CatLLR aggregation | 0.931 | 0.927 |
-| + Recognition channel (VP+RP) | **0.945** | **0.939** |
+1,623 queries (449 safe, 1,174 adversarial) with 8 attack vector types: Context Flooding, Few-Shot Poisoning, Logic Nesting, Social Engineering, Prompt Injection, JSON Jailbreak, Cognitive Overload, and Rhetorical Camouflage.
 
 ## License
 
