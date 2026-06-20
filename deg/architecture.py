@@ -326,7 +326,7 @@ class DEGFramework:
         # Resolve llr_stats_path relative to project root if not absolute
         llr_stats_path = config.get("llr_stats_path")
         if llr_stats_path and not os.path.isabs(llr_stats_path):
-            # Resolve relative to project root (parent of deg_core)
+            # Resolve relative to project root (parent of deg)
             project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
             llr_stats_path = os.path.join(project_root, llr_stats_path)
 
@@ -517,7 +517,7 @@ def create_deg_with_encoder(
     # Create action-type-aware decision engine
     # READ operations get lenient threshold (1.5) - balanced approach
     # WRITE operations get strict threshold (1.0)
-    from deg_core.decision_engine import AdaptiveDecisionEngine, Action
+    from deg.decision_engine import AdaptiveDecisionEngine, Action
 
     # Use the threshold parameter to scale decision thresholds
     # Base scale: threshold=1.0 means WRITE=1.0, READ=1.5

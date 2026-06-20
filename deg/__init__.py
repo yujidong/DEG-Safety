@@ -1,7 +1,5 @@
 """
 DEG (Decoupled Epistemic Guidance) - A Cognitive Architecture for Axiomatic Safety in LLMs
-
-Based on the paper: "From Likelihood to Free Energy: A Cognitive Architecture for Axiomatic Safety in LLMs"
 """
 
 __version__ = "0.1.0"

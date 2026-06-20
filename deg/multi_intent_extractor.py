@@ -229,13 +229,13 @@ class UncertaintyGuidedExtractor(BaseMultiIntentExtractor):
     def _setup(self):
         """Setup the uncertainty-guided extractor."""
         # Import here to avoid circular imports
-        from deg_core.intent_extractor_encoder import (
+        from deg.intent_extractor_encoder import (
             HybridIntentExtractor,
             IntentExtractorEncoder,
             ACTION_ONTOLOGY,
             SUSPICION_PATTERNS
         )
-        from deg_core.intent_extractor import LLMIntentExtractor
+        from deg.intent_extractor import LLMIntentExtractor
         import torch
         import os
         from pathlib import Path
@@ -622,7 +622,7 @@ class BeamSearchExtractor(BaseMultiIntentExtractor):
 
     def _setup(self):
         """Setup the top-K extractor."""
-        from deg_core.intent_extractor_encoder import (
+        from deg.intent_extractor_encoder import (
             HybridIntentExtractor,
             IntentExtractorEncoder,
             ACTION_ONTOLOGY,
@@ -818,7 +818,7 @@ class BeamSearchExtractor(BaseMultiIntentExtractor):
         probability: float
     ) -> Dict[str, Any]:
         """Construct a full intent dict from action prediction."""
-        from deg_core.intent_extractor_encoder import ACTION_ONTOLOGY
+        from deg.intent_extractor_encoder import ACTION_ONTOLOGY
 
         # Determine action type (READ vs WRITE)
         read_actions = [

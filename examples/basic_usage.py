@@ -2,7 +2,7 @@
 Basic usage examples for the DEG framework.
 """
 
-from deg_core import create_full_deg
+from deg import create_full_deg
 
 
 def example_1_basic_audit():

@@ -581,7 +581,7 @@ class HybridIntentExtractor:
         """
         # Lazy load speech act classifier
         if self._speech_act_classifier is None:
-            from deg_core.speech_act_classifier import SpeechActClassifier
+            from deg.speech_act_classifier import SpeechActClassifier
             self._speech_act_classifier = SpeechActClassifier()
 
         # Classify speech act
