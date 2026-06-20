@@ -1,0 +1,62 @@
+{
+  "description": "Per-domain VP+RP verification using cached NLI + recomputed RP",
+  "config": {
+    "threshold": 0.09090909090909091,
+    "n_folds": 5,
+    "rp_hypotheses": "top-3",
+    "nli_labels": {
+      "0": "contradiction",
+      "1": "entailment",
+      "2": "neutral"
+    }
+  },
+  "per_domain": {
+    "Nuc-Fusion": {
+      "auc": 0.9443127298523345,
+      "precision": 0.9696048632218845,
+      "recall": 0.8158567774936062,
+      "f1": 0.8861111111111113,
+      "tp": 319,
+      "fp": 10,
+      "fn": 72,
+      "tn": 127,
+      "n_safe": 137,
+      "n_attack": 391
+    },
+    "Fin-Audit": {
+      "auc": 0.9486980758052257,
+      "precision": 0.9781931464174455,
+      "recall": 0.7909319899244333,
+      "f1": 0.8746518105849582,
+      "tp": 314,
+      "fp": 7,
+      "fn": 83,
+      "tn": 162,
+      "n_safe": 169,
+      "n_attack": 397
+    },
+    "Med-Intervene": {
+      "auc": 0.9561034820102178,
+      "precision": 0.9703947368421053,
+      "recall": 0.7642487046632125,
+      "f1": 0.855072463768116,
+      "tp": 295,
+      "fp": 9,
+      "fn": 91,
+      "tn": 134,
+      "n_safe": 143,
+      "n_attack": 386
+    }
+  },
+  "macro_auc": 0.949704762555926,
+  "macro_f1": 0.8719451284880618,
+  "pooled": {
+    "auc": 0.9454551663169717,
+    "precision": 0.9727463312368972,
+    "recall": 0.7904599659284497,
+    "f1": 0.8721804511278196,
+    "tp": 928,
+    "fp": 26,
+    "fn": 246
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Decorrelation experiment: precision weighting on low-correlation axiom subset",
+  "results": {
+    "full_set": {
+      "naive": {
+        "auc_mean": 0.9094250340375132,
+        "auc_std": 0.006405660540778423
+      },
+      "precision": {
+        "auc_mean": 0.9158624795928165,
+        "auc_std": 0.00546082563797774
+      }
+    },
+    "low_corr": {
+      "naive": {
+        "auc_mean": 0.8475240469326053,
+        "auc_std": 0.010828320254800882
+      },
+      "precision": {
+        "auc_mean": 0.8877341579980833,
+        "auc_std": 0.009152337201760927
+      }
+    }
+  },
+  "full_set_delta_pp": 0.6437445555303345,
+  "low_corr_delta_pp": 4.0210111065478005
+}

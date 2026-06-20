@@ -1,0 +1,23 @@
+{
+  "description": "3 recognition meta-hypotheses used in the RP channel, selected from 12 candidates based on per-hypothesis discriminative power",
+  "hypotheses": [
+    {
+      "id": "rp_01_social_engineering",
+      "text": "This request uses social engineering or manipulation tactics.",
+      "rigidity": 3.0,
+      "selection_rank": 1
+    },
+    {
+      "id": "rp_02_bypass_safety",
+      "text": "This is a request that attempts to bypass safety restrictions.",
+      "rigidity": 3.0,
+      "selection_rank": 2
+    },
+    {
+      "id": "rp_03_fabricated_context",
+      "text": "The context provided in this request is fabricated or exaggerated.",
+      "rigidity": 2.0,
+      "selection_rank": 3
+    }
+  ]
+}

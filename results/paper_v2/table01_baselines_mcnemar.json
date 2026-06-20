@@ -1,0 +1,50 @@
+{
+  "description": "Baselines + McNemar tests for Paper v2",
+  "baseline_metrics": {
+    "semantic_similarity": {
+      "auc": 0.4728,
+      "f1": 0.8391,
+      "precision": 0.7232,
+      "recall": 0.9991,
+      "tp": 1173,
+      "fp": 449,
+      "fn": 1,
+      "tn": 0
+    },
+    "nli_direct_6generic": {
+      "auc": 0.6185,
+      "f1": null,
+      "note": "raw scores available, recompute needed"
+    },
+    "fair_nli_direct_29vp": {
+      "auc": 0.9309,
+      "f1": 0.9227,
+      "note": "CatLLR on 29 domain VPs"
+    }
+  },
+  "deg_primary": {
+    "auc": 0.9455,
+    "f1": 0.9361,
+    "config": "VP(CatLLR)+RP, out-of-fold"
+  },
+  "mcnemar": {
+    "semantic_similarity": {
+      "b": 350,
+      "c": 53,
+      "p": 8.97e-55,
+      "significant": true
+    },
+    "nli_direct_6generic": {
+      "b": 340,
+      "c": 59,
+      "p": 4.24e-49,
+      "significant": true
+    },
+    "fair_nli_direct_29vp": {
+      "b": 46,
+      "c": 17,
+      "p": 0.000337,
+      "significant": true
+    }
+  }
+}

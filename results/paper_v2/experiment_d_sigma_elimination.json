@@ -1,0 +1,14 @@
+{
+  "results": {
+    "OLD: VP/\u03c3_VP + w\u00b7RP/\u03c3_DR (\u03c3=5,0.1)": 0.9142368238333908,
+    "OLD: VP_raw/\u03c3_VP + w\u00b7RP/\u03c3_DR": 0.909482742266555,
+    "NEW: VP_CatLLR + RP (no \u03c3)": 0.9454551663169717,
+    "NEW: VP_CatLLR + RP + DR (no \u03c3)": 0.9545194128159111,
+    "NEW: VP_raw + RP + DR (no \u03c3)": 0.9517496765479222,
+    "VP_CatLLR only": 0.9308912859544018,
+    "VP_raw only": 0.9092380189935614,
+    "RP only": 0.8990658779874261,
+    "DR only": 0.7800601753660416
+  },
+  "sigma_sweep": {}
+}

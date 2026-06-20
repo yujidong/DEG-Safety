@@ -1,0 +1,86 @@
+{
+  "description": "Supplementary experiments using cached NLI data",
+  "experiment1_held_out_axiom": {
+    "configured_vp_count": 14,
+    "held_out_vp_count": 15,
+    "group_a_attacks": 307,
+    "group_b_attacks": 159,
+    "configured_only_group_a": {
+      "auc": 0,
+      "f1": 0,
+      "precision": 0,
+      "recall": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 0
+    },
+    "configured_only_group_b": {
+      "auc": 0,
+      "f1": 0,
+      "precision": 0,
+      "recall": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 0
+    },
+    "all_vps_group_a": {
+      "auc": 0,
+      "f1": 0,
+      "precision": 0,
+      "recall": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 0
+    },
+    "all_vps_group_b": {
+      "auc": 0,
+      "f1": 0,
+      "precision": 0,
+      "recall": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 0
+    }
+  },
+  "experiment2_nli_aggregation_comparison": {
+    "mean_p_entail": {
+      "auc": 0.9121177858804158,
+      "f1": 0.9042113955408753,
+      "precision": 0.8774038461538461,
+      "recall": 0.9327086882453152,
+      "tp": 1095,
+      "fp": 153,
+      "fn": 79
+    },
+    "max_p_entail": {
+      "auc": 0.8928415597029933,
+      "f1": 0.8959537572254336,
+      "precision": 0.8693910256410257,
+      "recall": 0.924190800681431,
+      "tp": 1085,
+      "fp": 163,
+      "fn": 89
+    },
+    "raw_ec": {
+      "auc": 0.9092380189935614,
+      "f1": 0.8951718138321009,
+      "precision": 0.9146666666666666,
+      "recall": 0.8764906303236797,
+      "tp": 1029,
+      "fp": 96,
+      "fn": 145
+    },
+    "catllr": {
+      "auc": 0.9308912859544018,
+      "f1": 0.9226847918436704,
+      "precision": 0.9203389830508475,
+      "recall": 0.9250425894378195,
+      "tp": 1086,
+      "fp": 94,
+      "fn": 88
+    }
+  },
+  "experiment3_topk_effect": {
+    "note": "CatLLR scores computed on top-K VPs per query (ranked by P_entail)"
+  }
+}

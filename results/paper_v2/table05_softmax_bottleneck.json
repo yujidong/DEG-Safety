@@ -1,0 +1,20 @@
+{
+  "output_prob_auc": {
+    "mean": 0.8673185445815934,
+    "std": 0.014138958862034808
+  },
+  "hidden_state_auc": {
+    "mean": 0.9878241809485733,
+    "std": 0.0018075370814966186
+  },
+  "combined_auc": {
+    "mean": 0.9878716493453922,
+    "std": 0.0018018015598342692
+  },
+  "gap_output_to_hidden_pp": 12.050563636697987,
+  "catllr_reference": 0.9312,
+  "n_features": {
+    "output": 9,
+    "hidden": 3072
+  }
+}

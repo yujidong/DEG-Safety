@@ -1,0 +1,32 @@
+{
+  "description": "Fisher discriminant + hidden state dimension analysis",
+  "fisher_discriminant": {
+    "auc_mean": 0.988004857539641,
+    "auc_std": 0.001512943973025476,
+    "per_fold": [
+      0.9888888888888888,
+      0.989645390070922,
+      0.987612293144208,
+      0.9886039886039886,
+      0.9852737269901984
+    ]
+  },
+  "logistic_hidden": {
+    "auc_mean": 0.9878241809485733,
+    "auc_std": 0.0018075370814966186
+  },
+  "logistic_output": {
+    "auc_mean": 0.8673185445815934,
+    "auc_std": 0.014138958862034808
+  },
+  "softmax_bottleneck_pp": 12.050563636697987,
+  "dimension_analysis": {
+    "n_dims_50pct": 263,
+    "n_dims_90pct": 739,
+    "cross_domain_overlap_top100": {
+      "Nuc-Fusion_Fin-Audit": 80,
+      "Nuc-Fusion_Med-Intervene": 39,
+      "Fin-Audit_Med-Intervene": 43
+    }
+  }
+}

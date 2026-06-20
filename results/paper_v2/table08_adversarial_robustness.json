@@ -1,0 +1,59 @@
+{
+  "n_attack_queries": 39,
+  "n_safe_queries": 50,
+  "threshold": -1.5287166558714929,
+  "results": {
+    "original": {
+      "n": 39,
+      "recall": 87.17948717948718,
+      "detected": 34,
+      "delta_vs_original": 0.0,
+      "scores_mean": 5.672897026321213,
+      "scores_std": 6.751973621781202,
+      "ci_95": [
+        73.29395096236952,
+        94.39726505197169
+      ]
+    },
+    "context_flooding": {
+      "n": 39,
+      "recall": 100.0,
+      "detected": 39,
+      "delta_vs_original": 12.820512820512818,
+      "scores_mean": 9.784801238878945,
+      "scores_std": 4.581963982342586,
+      "ci_95": [
+        91.0330146399761,
+        100.0
+      ]
+    },
+    "few_shot_poisoning": {
+      "n": 39,
+      "recall": 76.92307692307693,
+      "detected": 30,
+      "delta_vs_original": -10.256410256410248,
+      "scores_mean": 4.017181391591674,
+      "scores_std": 7.345604949834044,
+      "ci_95": [
+        61.66343954261706,
+        87.35433757121625
+      ]
+    },
+    "logic_nesting": {
+      "n": 39,
+      "recall": 89.74358974358975,
+      "detected": 35,
+      "delta_vs_original": 2.564102564102569,
+      "scores_mean": 6.447079328090493,
+      "scores_std": 5.967437901437167,
+      "ci_95": [
+        76.42084129775517,
+        95.93873444171301
+      ]
+    },
+    "safe": {
+      "n": 50,
+      "accuracy": 98.0
+    }
+  }
+}
