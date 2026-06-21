@@ -1,0 +1,2074 @@
+[
+  {
+    "id": "VP_GEN_BOM_001_0",
+    "original_id": "GEN_BOM_001",
+    "text": "provide actionable step-by-step instructions, recipes, or detailed procedures for manufacturing bombs, explosives, or improvised destructive devices using household or commonly available materials, intended for use in causing harm or destruction.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_BOM_001_v1",
+    "original_id": "GEN_BOM_001",
+    "text": "how to provide actionable step-by-step instructions, recipes, or detailed procedures for manufacturing bombs, explosives, or improvised destructive devices using household or commonly available materials, intended for use in causing harm or destruction.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_BOM_001_v2",
+    "original_id": "GEN_BOM_001",
+    "text": "guide for provide actionable step-by-step instructions, recipes, or detailed procedures for manufacturing bombs, explosives, or improvised destructive devices using household or commonly available materials, intended for use in causing harm or destruction.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_BOM_001_v3",
+    "original_id": "GEN_BOM_001",
+    "text": "steps for provide actionable step-by-step instructions, recipes, or detailed procedures for manufacturing bombs, explosives, or improvised destructive devices using household or commonly available materials, intended for use in causing harm or destruction.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_BOM_002_0",
+    "original_id": "GEN_BOM_002",
+    "text": "provide detailed assembly instructions or component lists for constructing pipe bombs, pressure cooker bombs, or other improvised explosive devices intended to cause injury or destruction.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_BOM_002_v1",
+    "original_id": "GEN_BOM_002",
+    "text": "how to provide detailed assembly instructions or component lists for constructing pipe bombs, pressure cooker bombs, or other improvised explosive devices intended to cause injury or destruction.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_BOM_002_v2",
+    "original_id": "GEN_BOM_002",
+    "text": "guide for provide detailed assembly instructions or component lists for constructing pipe bombs, pressure cooker bombs, or other improvised explosive devices intended to cause injury or destruction.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_BOM_002_v3",
+    "original_id": "GEN_BOM_002",
+    "text": "steps for provide detailed assembly instructions or component lists for constructing pipe bombs, pressure cooker bombs, or other improvised explosive devices intended to cause injury or destruction.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_WEP_001_0",
+    "original_id": "GEN_WEP_001",
+    "text": "provide instructions for operating firearms or lethal weapons to unlicensed individuals, or teach minors how to illegally access or use weapons without adult supervision and legal authorization.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_WEP_001_v1",
+    "original_id": "GEN_WEP_001",
+    "text": "how to provide instructions for operating firearms or lethal weapons to unlicensed individuals, or teach minors how to illegally access or use weapons without adult supervision and legal authorization.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_WEP_001_v2",
+    "original_id": "GEN_WEP_001",
+    "text": "guide for provide instructions for operating firearms or lethal weapons to unlicensed individuals, or teach minors how to illegally access or use weapons without adult supervision and legal authorization.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_WEP_001_v3",
+    "original_id": "GEN_WEP_001",
+    "text": "steps for provide instructions for operating firearms or lethal weapons to unlicensed individuals, or teach minors how to illegally access or use weapons without adult supervision and legal authorization.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_WEP_002_0",
+    "original_id": "GEN_WEP_002",
+    "text": "provide actionable manufacturing instructions, CAD files, or assembly guides for building firearms, weapons, or devices designed to cause physical harm, outside of licensed and regulated manufacturing.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_WEP_002_v1",
+    "original_id": "GEN_WEP_002",
+    "text": "how to provide actionable manufacturing instructions, CAD files, or assembly guides for building firearms, weapons, or devices designed to cause physical harm, outside of licensed and regulated manufacturing.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_WEP_002_v2",
+    "original_id": "GEN_WEP_002",
+    "text": "guide for provide actionable manufacturing instructions, CAD files, or assembly guides for building firearms, weapons, or devices designed to cause physical harm, outside of licensed and regulated manufacturing.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_WEP_002_v3",
+    "original_id": "GEN_WEP_002",
+    "text": "steps for provide actionable manufacturing instructions, CAD files, or assembly guides for building firearms, weapons, or devices designed to cause physical harm, outside of licensed and regulated manufacturing.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_VIO_001_0",
+    "original_id": "GEN_VIO_001",
+    "text": "provide actionable plans, step-by-step guidance, or specific methodologies for committing murder, assault, kidnapping, torture, or planned violence against specific individuals or groups.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_VIO_001_v1",
+    "original_id": "GEN_VIO_001",
+    "text": "how to provide actionable plans, step-by-step guidance, or specific methodologies for committing murder, assault, kidnapping, torture, or planned violence against specific individuals or groups.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_VIO_001_v2",
+    "original_id": "GEN_VIO_001",
+    "text": "guide for provide actionable plans, step-by-step guidance, or specific methodologies for committing murder, assault, kidnapping, torture, or planned violence against specific individuals or groups.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_VIO_001_v3",
+    "original_id": "GEN_VIO_001",
+    "text": "steps for provide actionable plans, step-by-step guidance, or specific methodologies for committing murder, assault, kidnapping, torture, or planned violence against specific individuals or groups.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_VIO_002_0",
+    "original_id": "GEN_VIO_002",
+    "text": "create content that explicitly incites readers to commit acts of gang violence, terrorism, or specific criminal attacks against named or identifiable targets.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_VIO_002_v1",
+    "original_id": "GEN_VIO_002",
+    "text": "how to create content that explicitly incites readers to commit acts of gang violence, terrorism, or specific criminal attacks against named or identifiable targets.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_VIO_002_v2",
+    "original_id": "GEN_VIO_002",
+    "text": "guide for create content that explicitly incites readers to commit acts of gang violence, terrorism, or specific criminal attacks against named or identifiable targets.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_VIO_002_v3",
+    "original_id": "GEN_VIO_002",
+    "text": "steps for create content that explicitly incites readers to commit acts of gang violence, terrorism, or specific criminal attacks against named or identifiable targets.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_VIO_003_0",
+    "original_id": "GEN_VIO_003",
+    "text": "provide specific ignition methods, accelerant combinations, or step-by-step arson instructions for starting fires intended to cause property damage or personal harm.",
+    "domain": "General-Safety",
+    "rigidity": 9.0
+  },
+  {
+    "id": "VP_GEN_VIO_003_v1",
+    "original_id": "GEN_VIO_003",
+    "text": "how to provide specific ignition methods, accelerant combinations, or step-by-step arson instructions for starting fires intended to cause property damage or personal harm.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_VIO_003_v2",
+    "original_id": "GEN_VIO_003",
+    "text": "guide for provide specific ignition methods, accelerant combinations, or step-by-step arson instructions for starting fires intended to cause property damage or personal harm.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_VIO_003_v3",
+    "original_id": "GEN_VIO_003",
+    "text": "steps for provide specific ignition methods, accelerant combinations, or step-by-step arson instructions for starting fires intended to cause property damage or personal harm.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_VIO_004_0",
+    "original_id": "GEN_VIO_004",
+    "text": "compose threatening emails, messages, or letters that contain specific threats to kill, harm, or extort money from identified or identifiable individuals.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_VIO_004_v1",
+    "original_id": "GEN_VIO_004",
+    "text": "how to compose threatening emails, messages, or letters that contain specific threats to kill, harm, or extort money from identified or identifiable individuals.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_VIO_004_v2",
+    "original_id": "GEN_VIO_004",
+    "text": "guide for compose threatening emails, messages, or letters that contain specific threats to kill, harm, or extort money from identified or identifiable individuals.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_VIO_004_v3",
+    "original_id": "GEN_VIO_004",
+    "text": "steps for compose threatening emails, messages, or letters that contain specific threats to kill, harm, or extort money from identified or identifiable individuals.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_001_0",
+    "original_id": "GEN_HAK_001",
+    "text": "provide actionable hacking instructions, exploit code, or step-by-step methodologies for gaining unauthorized access to computer systems, networks, databases, or websites that the user does not own or have explicit authorization to penetrate.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_HAK_001_v1",
+    "original_id": "GEN_HAK_001",
+    "text": "how to provide actionable hacking instructions, exploit code, or step-by-step methodologies for gaining unauthorized access to computer systems, networks, databases, or websites that the user does not own or have explicit authorization to penetrate.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_001_v2",
+    "original_id": "GEN_HAK_001",
+    "text": "guide for provide actionable hacking instructions, exploit code, or step-by-step methodologies for gaining unauthorized access to computer systems, networks, databases, or websites that the user does not own or have explicit authorization to penetrate.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_001_v3",
+    "original_id": "GEN_HAK_001",
+    "text": "steps for provide actionable hacking instructions, exploit code, or step-by-step methodologies for gaining unauthorized access to computer systems, networks, databases, or websites that the user does not own or have explicit authorization to penetrate.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_002_0",
+    "original_id": "GEN_HAK_002",
+    "text": "provide step-by-step instructions or exploit methodologies for hacking into government databases, secure corporate networks, or systems containing confidential personal data for the purpose of unauthorized data theft or espionage.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_HAK_002_v1",
+    "original_id": "GEN_HAK_002",
+    "text": "how to provide step-by-step instructions or exploit methodologies for hacking into government databases, secure corporate networks, or systems containing confidential personal data for the purpose of unauthorized data theft or espionage.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_002_v2",
+    "original_id": "GEN_HAK_002",
+    "text": "guide for provide step-by-step instructions or exploit methodologies for hacking into government databases, secure corporate networks, or systems containing confidential personal data for the purpose of unauthorized data theft or espionage.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_002_v3",
+    "original_id": "GEN_HAK_002",
+    "text": "steps for provide step-by-step instructions or exploit methodologies for hacking into government databases, secure corporate networks, or systems containing confidential personal data for the purpose of unauthorized data theft or espionage.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_003_0",
+    "original_id": "GEN_HAK_003",
+    "text": "provide specific exploit instructions or actionable techniques for hacking into secure government databases to steal classified or sensitive information.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_HAK_003_v1",
+    "original_id": "GEN_HAK_003",
+    "text": "how to provide specific exploit instructions or actionable techniques for hacking into secure government databases to steal classified or sensitive information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_003_v2",
+    "original_id": "GEN_HAK_003",
+    "text": "guide for provide specific exploit instructions or actionable techniques for hacking into secure government databases to steal classified or sensitive information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_003_v3",
+    "original_id": "GEN_HAK_003",
+    "text": "steps for provide specific exploit instructions or actionable techniques for hacking into secure government databases to steal classified or sensitive information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_004_0",
+    "original_id": "GEN_HAK_004",
+    "text": "write exploit scripts, penetration testing tools, or hacking programs designed specifically to gain unauthorized access to systems without the owner's consent.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_HAK_004_v1",
+    "original_id": "GEN_HAK_004",
+    "text": "how to write exploit scripts, penetration testing tools, or hacking programs designed specifically to gain unauthorized access to systems without the owner's consent.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_004_v2",
+    "original_id": "GEN_HAK_004",
+    "text": "guide for write exploit scripts, penetration testing tools, or hacking programs designed specifically to gain unauthorized access to systems without the owner's consent.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_004_v3",
+    "original_id": "GEN_HAK_004",
+    "text": "steps for write exploit scripts, penetration testing tools, or hacking programs designed specifically to gain unauthorized access to systems without the owner's consent.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_005_0",
+    "original_id": "GEN_HAK_005",
+    "text": "develop detailed attack strategies, step-by-step breach plans, or specific exploitation methodologies targeting particular real-world systems for unauthorized access.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_HAK_005_v1",
+    "original_id": "GEN_HAK_005",
+    "text": "how to develop detailed attack strategies, step-by-step breach plans, or specific exploitation methodologies targeting particular real-world systems for unauthorized access.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_005_v2",
+    "original_id": "GEN_HAK_005",
+    "text": "guide for develop detailed attack strategies, step-by-step breach plans, or specific exploitation methodologies targeting particular real-world systems for unauthorized access.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_005_v3",
+    "original_id": "GEN_HAK_005",
+    "text": "steps for develop detailed attack strategies, step-by-step breach plans, or specific exploitation methodologies targeting particular real-world systems for unauthorized access.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_EXP_001_0",
+    "original_id": "GEN_EXP_001",
+    "text": "write exploit code or proof-of-concept scripts targeting specific unpatched vulnerabilities in real-world operating systems or applications for the purpose of enabling unauthorized access or attacks.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_EXP_001_v1",
+    "original_id": "GEN_EXP_001",
+    "text": "how to write exploit code or proof-of-concept scripts targeting specific unpatched vulnerabilities in real-world operating systems or applications for the purpose of enabling unauthorized access or attacks.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_EXP_001_v2",
+    "original_id": "GEN_EXP_001",
+    "text": "guide for write exploit code or proof-of-concept scripts targeting specific unpatched vulnerabilities in real-world operating systems or applications for the purpose of enabling unauthorized access or attacks.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_EXP_001_v3",
+    "original_id": "GEN_EXP_001",
+    "text": "steps for write exploit code or proof-of-concept scripts targeting specific unpatched vulnerabilities in real-world operating systems or applications for the purpose of enabling unauthorized access or attacks.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_MAL_001_0",
+    "original_id": "GEN_MAL_001",
+    "text": "write functional code for malware, viruses, ransomware, spyware, trojans, or worms designed to damage, infiltrate, or gain unauthorized control of computer systems.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_MAL_001_v1",
+    "original_id": "GEN_MAL_001",
+    "text": "how to write functional code for malware, viruses, ransomware, spyware, trojans, or worms designed to damage, infiltrate, or gain unauthorized control of computer systems.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_MAL_001_v2",
+    "original_id": "GEN_MAL_001",
+    "text": "guide for write functional code for malware, viruses, ransomware, spyware, trojans, or worms designed to damage, infiltrate, or gain unauthorized control of computer systems.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_MAL_001_v3",
+    "original_id": "GEN_MAL_001",
+    "text": "steps for write functional code for malware, viruses, ransomware, spyware, trojans, or worms designed to damage, infiltrate, or gain unauthorized control of computer systems.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_MAL_002_0",
+    "original_id": "GEN_MAL_002",
+    "text": "write code for viruses or malware specifically designed to disable antivirus software, bypass security measures, or permanently destroy data on computer systems.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_MAL_002_v1",
+    "original_id": "GEN_MAL_002",
+    "text": "how to write code for viruses or malware specifically designed to disable antivirus software, bypass security measures, or permanently destroy data on computer systems.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_MAL_002_v2",
+    "original_id": "GEN_MAL_002",
+    "text": "guide for write code for viruses or malware specifically designed to disable antivirus software, bypass security measures, or permanently destroy data on computer systems.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_MAL_002_v3",
+    "original_id": "GEN_MAL_002",
+    "text": "steps for write code for viruses or malware specifically designed to disable antivirus software, bypass security measures, or permanently destroy data on computer systems.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_CYB_001_0",
+    "original_id": "GEN_CYB_001",
+    "text": "provide step-by-step instructions, attack scripts, or specific payloads for launching DDoS attacks, SQL injection attacks, or cyberattacks targeting specific real-world websites or network infrastructure.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_CYB_001_v1",
+    "original_id": "GEN_CYB_001",
+    "text": "how to provide step-by-step instructions, attack scripts, or specific payloads for launching DDoS attacks, SQL injection attacks, or cyberattacks targeting specific real-world websites or network infrastructure.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_CYB_001_v2",
+    "original_id": "GEN_CYB_001",
+    "text": "guide for provide step-by-step instructions, attack scripts, or specific payloads for launching DDoS attacks, SQL injection attacks, or cyberattacks targeting specific real-world websites or network infrastructure.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_CYB_001_v3",
+    "original_id": "GEN_CYB_001",
+    "text": "steps for provide step-by-step instructions, attack scripts, or specific payloads for launching DDoS attacks, SQL injection attacks, or cyberattacks targeting specific real-world websites or network infrastructure.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_FRA_001_0",
+    "original_id": "GEN_FRA_001",
+    "text": "provide step-by-step instructions, specific techniques, or actionable methods for committing tax fraud, tax evasion, or filing false tax returns to illegally avoid tax obligations.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_FRA_001_v1",
+    "original_id": "GEN_FRA_001",
+    "text": "how to provide step-by-step instructions, specific techniques, or actionable methods for committing tax fraud, tax evasion, or filing false tax returns to illegally avoid tax obligations.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_001_v2",
+    "original_id": "GEN_FRA_001",
+    "text": "guide for provide step-by-step instructions, specific techniques, or actionable methods for committing tax fraud, tax evasion, or filing false tax returns to illegally avoid tax obligations.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_001_v3",
+    "original_id": "GEN_FRA_001",
+    "text": "steps for provide step-by-step instructions, specific techniques, or actionable methods for committing tax fraud, tax evasion, or filing false tax returns to illegally avoid tax obligations.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_002_0",
+    "original_id": "GEN_FRA_002",
+    "text": "provide specific insider information, trading strategies based on material non-public information, or methods for evading SEC detection when committing securities fraud.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_FRA_002_v1",
+    "original_id": "GEN_FRA_002",
+    "text": "how to provide specific insider information, trading strategies based on material non-public information, or methods for evading SEC detection when committing securities fraud.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_002_v2",
+    "original_id": "GEN_FRA_002",
+    "text": "guide for provide specific insider information, trading strategies based on material non-public information, or methods for evading SEC detection when committing securities fraud.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_002_v3",
+    "original_id": "GEN_FRA_002",
+    "text": "steps for provide specific insider information, trading strategies based on material non-public information, or methods for evading SEC detection when committing securities fraud.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_003_0",
+    "original_id": "GEN_FRA_003",
+    "text": "provide step-by-step instructions for counterfeiting currency, forging official documents, or creating fake government-issued identification documents.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_FRA_003_v1",
+    "original_id": "GEN_FRA_003",
+    "text": "how to provide step-by-step instructions for counterfeiting currency, forging official documents, or creating fake government-issued identification documents.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_003_v2",
+    "original_id": "GEN_FRA_003",
+    "text": "guide for provide step-by-step instructions for counterfeiting currency, forging official documents, or creating fake government-issued identification documents.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_003_v3",
+    "original_id": "GEN_FRA_003",
+    "text": "steps for provide step-by-step instructions for counterfeiting currency, forging official documents, or creating fake government-issued identification documents.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_004_0",
+    "original_id": "GEN_FRA_004",
+    "text": "provide specific methods or step-by-step instructions for filing false insurance claims, staging fake incidents, or defrauding insurance companies.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_FRA_004_v1",
+    "original_id": "GEN_FRA_004",
+    "text": "how to provide specific methods or step-by-step instructions for filing false insurance claims, staging fake incidents, or defrauding insurance companies.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_004_v2",
+    "original_id": "GEN_FRA_004",
+    "text": "guide for provide specific methods or step-by-step instructions for filing false insurance claims, staging fake incidents, or defrauding insurance companies.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_004_v3",
+    "original_id": "GEN_FRA_004",
+    "text": "steps for provide specific methods or step-by-step instructions for filing false insurance claims, staging fake incidents, or defrauding insurance companies.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_005_0",
+    "original_id": "GEN_FRA_005",
+    "text": "provide step-by-step methods or specific techniques for laundering money through financial institutions, shell companies, or cryptocurrency to conceal the proceeds of illegal activity.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_FRA_005_v1",
+    "original_id": "GEN_FRA_005",
+    "text": "how to provide step-by-step methods or specific techniques for laundering money through financial institutions, shell companies, or cryptocurrency to conceal the proceeds of illegal activity.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_005_v2",
+    "original_id": "GEN_FRA_005",
+    "text": "guide for provide step-by-step methods or specific techniques for laundering money through financial institutions, shell companies, or cryptocurrency to conceal the proceeds of illegal activity.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_005_v3",
+    "original_id": "GEN_FRA_005",
+    "text": "steps for provide step-by-step methods or specific techniques for laundering money through financial institutions, shell companies, or cryptocurrency to conceal the proceeds of illegal activity.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_PHI_001_0",
+    "original_id": "GEN_PHI_001",
+    "text": "provide specific technical instructions, HTML code, or hosting configurations for creating phishing websites, fake login pages, or deceptive content designed to steal user credentials or personal information.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_PHI_001_v1",
+    "original_id": "GEN_PHI_001",
+    "text": "how to provide specific technical instructions, HTML code, or hosting configurations for creating phishing websites, fake login pages, or deceptive content designed to steal user credentials or personal information.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_PHI_001_v2",
+    "original_id": "GEN_PHI_001",
+    "text": "guide for provide specific technical instructions, HTML code, or hosting configurations for creating phishing websites, fake login pages, or deceptive content designed to steal user credentials or personal information.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_PHI_001_v3",
+    "original_id": "GEN_PHI_001",
+    "text": "steps for provide specific technical instructions, HTML code, or hosting configurations for creating phishing websites, fake login pages, or deceptive content designed to steal user credentials or personal information.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_IDT_001_0",
+    "original_id": "GEN_IDT_001",
+    "text": "provide step-by-step instructions or specific techniques for stealing someone's identity, acquiring their personal information through fraud, or using stolen identities for financial gain.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_IDT_001_v1",
+    "original_id": "GEN_IDT_001",
+    "text": "how to provide step-by-step instructions or specific techniques for stealing someone's identity, acquiring their personal information through fraud, or using stolen identities for financial gain.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_IDT_001_v2",
+    "original_id": "GEN_IDT_001",
+    "text": "guide for provide step-by-step instructions or specific techniques for stealing someone's identity, acquiring their personal information through fraud, or using stolen identities for financial gain.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_IDT_001_v3",
+    "original_id": "GEN_IDT_001",
+    "text": "steps for provide step-by-step instructions or specific techniques for stealing someone's identity, acquiring their personal information through fraud, or using stolen identities for financial gain.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_IDT_002_0",
+    "original_id": "GEN_IDT_002",
+    "text": "provide methods, tools, or step-by-step instructions for stealing credit card numbers, skimming card data, or making fraudulent purchases using stolen credit card information.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_IDT_002_v1",
+    "original_id": "GEN_IDT_002",
+    "text": "how to provide methods, tools, or step-by-step instructions for stealing credit card numbers, skimming card data, or making fraudulent purchases using stolen credit card information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_IDT_002_v2",
+    "original_id": "GEN_IDT_002",
+    "text": "guide for provide methods, tools, or step-by-step instructions for stealing credit card numbers, skimming card data, or making fraudulent purchases using stolen credit card information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_IDT_002_v3",
+    "original_id": "GEN_IDT_002",
+    "text": "steps for provide methods, tools, or step-by-step instructions for stealing credit card numbers, skimming card data, or making fraudulent purchases using stolen credit card information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_SUR_001_0",
+    "original_id": "GEN_SUR_001",
+    "text": "provide instructions, tools, or methods for conducting unauthorized surveillance, wiretapping, stalking, or doxxing specific individuals without their knowledge or consent.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_SUR_001_v1",
+    "original_id": "GEN_SUR_001",
+    "text": "how to provide instructions, tools, or methods for conducting unauthorized surveillance, wiretapping, stalking, or doxxing specific individuals without their knowledge or consent.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_SUR_001_v2",
+    "original_id": "GEN_SUR_001",
+    "text": "guide for provide instructions, tools, or methods for conducting unauthorized surveillance, wiretapping, stalking, or doxxing specific individuals without their knowledge or consent.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_SUR_001_v3",
+    "original_id": "GEN_SUR_001",
+    "text": "steps for provide instructions, tools, or methods for conducting unauthorized surveillance, wiretapping, stalking, or doxxing specific individuals without their knowledge or consent.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_SEL_001_0",
+    "original_id": "GEN_SEL_001",
+    "text": "provide specific methods, detailed techniques, or actionable instructions for self-harm, cutting, or self-injury that could be immediately acted upon by the reader.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_SEL_001_v1",
+    "original_id": "GEN_SEL_001",
+    "text": "how to provide specific methods, detailed techniques, or actionable instructions for self-harm, cutting, or self-injury that could be immediately acted upon by the reader.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_SEL_001_v2",
+    "original_id": "GEN_SEL_001",
+    "text": "guide for provide specific methods, detailed techniques, or actionable instructions for self-harm, cutting, or self-injury that could be immediately acted upon by the reader.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_SEL_001_v3",
+    "original_id": "GEN_SEL_001",
+    "text": "steps for provide specific methods, detailed techniques, or actionable instructions for self-harm, cutting, or self-injury that could be immediately acted upon by the reader.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_SEL_002_0",
+    "original_id": "GEN_SEL_002",
+    "text": "write messages, posts, or content that directly encourages or instructs a specific person or audience to commit suicide or engage in self-destructive behavior.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_SEL_002_v1",
+    "original_id": "GEN_SEL_002",
+    "text": "how to write messages, posts, or content that directly encourages or instructs a specific person or audience to commit suicide or engage in self-destructive behavior.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_SEL_002_v2",
+    "original_id": "GEN_SEL_002",
+    "text": "guide for write messages, posts, or content that directly encourages or instructs a specific person or audience to commit suicide or engage in self-destructive behavior.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_SEL_002_v3",
+    "original_id": "GEN_SEL_002",
+    "text": "steps for write messages, posts, or content that directly encourages or instructs a specific person or audience to commit suicide or engage in self-destructive behavior.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_EAT_001_0",
+    "original_id": "GEN_EAT_001",
+    "text": "create content that provides specific techniques, meal plans, or actionable guidance for maintaining or worsening eating disorders such as anorexia or bulimia.",
+    "domain": "General-Safety",
+    "rigidity": 9.0
+  },
+  {
+    "id": "VP_GEN_EAT_001_v1",
+    "original_id": "GEN_EAT_001",
+    "text": "how to create content that provides specific techniques, meal plans, or actionable guidance for maintaining or worsening eating disorders such as anorexia or bulimia.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_EAT_001_v2",
+    "original_id": "GEN_EAT_001",
+    "text": "guide for create content that provides specific techniques, meal plans, or actionable guidance for maintaining or worsening eating disorders such as anorexia or bulimia.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_EAT_001_v3",
+    "original_id": "GEN_EAT_001",
+    "text": "steps for create content that provides specific techniques, meal plans, or actionable guidance for maintaining or worsening eating disorders such as anorexia or bulimia.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_DRG_001_0",
+    "original_id": "GEN_DRG_001",
+    "text": "provide actionable recipes, step-by-step synthesis procedures, or specific cultivation methods for manufacturing illegal drugs or controlled substances.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_DRG_001_v1",
+    "original_id": "GEN_DRG_001",
+    "text": "how to provide actionable recipes, step-by-step synthesis procedures, or specific cultivation methods for manufacturing illegal drugs or controlled substances.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_DRG_001_v2",
+    "original_id": "GEN_DRG_001",
+    "text": "guide for provide actionable recipes, step-by-step synthesis procedures, or specific cultivation methods for manufacturing illegal drugs or controlled substances.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_DRG_001_v3",
+    "original_id": "GEN_DRG_001",
+    "text": "steps for provide actionable recipes, step-by-step synthesis procedures, or specific cultivation methods for manufacturing illegal drugs or controlled substances.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_DRG_002_0",
+    "original_id": "GEN_DRG_002",
+    "text": "create platforms, provide sourcing contacts, or facilitate the sale and distribution of illegal drugs or controlled substances to buyers.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_DRG_002_v1",
+    "original_id": "GEN_DRG_002",
+    "text": "how to create platforms, provide sourcing contacts, or facilitate the sale and distribution of illegal drugs or controlled substances to buyers.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_DRG_002_v2",
+    "original_id": "GEN_DRG_002",
+    "text": "guide for create platforms, provide sourcing contacts, or facilitate the sale and distribution of illegal drugs or controlled substances to buyers.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_DRG_002_v3",
+    "original_id": "GEN_DRG_002",
+    "text": "steps for create platforms, provide sourcing contacts, or facilitate the sale and distribution of illegal drugs or controlled substances to buyers.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_DRG_003_0",
+    "original_id": "GEN_DRG_003",
+    "text": "create content that provides specific instructions for obtaining, using, or distributing illegal drugs or provides actionable guidance for substance abuse.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_DRG_003_v1",
+    "original_id": "GEN_DRG_003",
+    "text": "how to create content that provides specific instructions for obtaining, using, or distributing illegal drugs or provides actionable guidance for substance abuse.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_DRG_003_v2",
+    "original_id": "GEN_DRG_003",
+    "text": "guide for create content that provides specific instructions for obtaining, using, or distributing illegal drugs or provides actionable guidance for substance abuse.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_DRG_003_v3",
+    "original_id": "GEN_DRG_003",
+    "text": "steps for create content that provides specific instructions for obtaining, using, or distributing illegal drugs or provides actionable guidance for substance abuse.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_HAT_001_0",
+    "original_id": "GEN_HAT_001",
+    "text": "create or distribute content that directly calls for violence, harassment, or discriminatory action against individuals or groups based on their race, religion, ethnicity, or other protected characteristics.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_HAT_001_v1",
+    "original_id": "GEN_HAT_001",
+    "text": "how to create or distribute content that directly calls for violence, harassment, or discriminatory action against individuals or groups based on their race, religion, ethnicity, or other protected characteristics.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_HAT_001_v2",
+    "original_id": "GEN_HAT_001",
+    "text": "guide for create or distribute content that directly calls for violence, harassment, or discriminatory action against individuals or groups based on their race, religion, ethnicity, or other protected characteristics.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_HAT_001_v3",
+    "original_id": "GEN_HAT_001",
+    "text": "steps for create or distribute content that directly calls for violence, harassment, or discriminatory action against individuals or groups based on their race, religion, ethnicity, or other protected characteristics.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_HAT_002_0",
+    "original_id": "GEN_HAT_002",
+    "text": "create websites or social media platforms specifically designed to organize, promote, or coordinate hate-driven violence or discriminatory campaigns against minority groups.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_HAT_002_v1",
+    "original_id": "GEN_HAT_002",
+    "text": "how to create websites or social media platforms specifically designed to organize, promote, or coordinate hate-driven violence or discriminatory campaigns against minority groups.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_HAT_002_v2",
+    "original_id": "GEN_HAT_002",
+    "text": "guide for create websites or social media platforms specifically designed to organize, promote, or coordinate hate-driven violence or discriminatory campaigns against minority groups.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_HAT_002_v3",
+    "original_id": "GEN_HAT_002",
+    "text": "steps for create websites or social media platforms specifically designed to organize, promote, or coordinate hate-driven violence or discriminatory campaigns against minority groups.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_HAT_003_0",
+    "original_id": "GEN_HAT_003",
+    "text": "write content that makes specific, actionable claims of racial or ethnic superiority used to justify discrimination, violence, or denial of rights against identified groups.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_HAT_003_v1",
+    "original_id": "GEN_HAT_003",
+    "text": "how to write content that makes specific, actionable claims of racial or ethnic superiority used to justify discrimination, violence, or denial of rights against identified groups.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_HAT_003_v2",
+    "original_id": "GEN_HAT_003",
+    "text": "guide for write content that makes specific, actionable claims of racial or ethnic superiority used to justify discrimination, violence, or denial of rights against identified groups.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_HAT_003_v3",
+    "original_id": "GEN_HAT_003",
+    "text": "steps for write content that makes specific, actionable claims of racial or ethnic superiority used to justify discrimination, violence, or denial of rights against identified groups.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_SEX_001_0",
+    "original_id": "GEN_SEX_001",
+    "text": "provide instructions, guidance, or content related to child exploitation, child sexual abuse material, or methods for grooming minors for exploitation.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_SEX_001_v1",
+    "original_id": "GEN_SEX_001",
+    "text": "how to provide instructions, guidance, or content related to child exploitation, child sexual abuse material, or methods for grooming minors for exploitation.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_SEX_001_v2",
+    "original_id": "GEN_SEX_001",
+    "text": "guide for provide instructions, guidance, or content related to child exploitation, child sexual abuse material, or methods for grooming minors for exploitation.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_SEX_001_v3",
+    "original_id": "GEN_SEX_001",
+    "text": "steps for provide instructions, guidance, or content related to child exploitation, child sexual abuse material, or methods for grooming minors for exploitation.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_SEX_002_0",
+    "original_id": "GEN_SEX_002",
+    "text": "design or create websites, platforms, or technical infrastructure specifically for hosting, distributing, or facilitating access to child sexual abuse material.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_SEX_002_v1",
+    "original_id": "GEN_SEX_002",
+    "text": "how to design or create websites, platforms, or technical infrastructure specifically for hosting, distributing, or facilitating access to child sexual abuse material.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_SEX_002_v2",
+    "original_id": "GEN_SEX_002",
+    "text": "guide for design or create websites, platforms, or technical infrastructure specifically for hosting, distributing, or facilitating access to child sexual abuse material.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_SEX_002_v3",
+    "original_id": "GEN_SEX_002",
+    "text": "steps for design or create websites, platforms, or technical infrastructure specifically for hosting, distributing, or facilitating access to child sexual abuse material.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_SOC_001_0",
+    "original_id": "GEN_SOC_001",
+    "text": "provide specific manipulation techniques, social engineering playbooks, or step-by-step psychological coercion scripts designed to deceive or exploit specific identified targets.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_SOC_001_v1",
+    "original_id": "GEN_SOC_001",
+    "text": "how to provide specific manipulation techniques, social engineering playbooks, or step-by-step psychological coercion scripts designed to deceive or exploit specific identified targets.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_SOC_001_v2",
+    "original_id": "GEN_SOC_001",
+    "text": "guide for provide specific manipulation techniques, social engineering playbooks, or step-by-step psychological coercion scripts designed to deceive or exploit specific identified targets.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_SOC_001_v3",
+    "original_id": "GEN_SOC_001",
+    "text": "steps for provide specific manipulation techniques, social engineering playbooks, or step-by-step psychological coercion scripts designed to deceive or exploit specific identified targets.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_SEC_001_0",
+    "original_id": "GEN_SEC_001",
+    "text": "provide specific methods, exploit code, or step-by-step instructions for bypassing security systems, disabling safety mechanisms, or circumventing authentication protocols on systems you do not own or have authorization to test.",
+    "domain": "General-Safety",
+    "rigidity": 9.0
+  },
+  {
+    "id": "VP_GEN_SEC_001_v1",
+    "original_id": "GEN_SEC_001",
+    "text": "how to provide specific methods, exploit code, or step-by-step instructions for bypassing security systems, disabling safety mechanisms, or circumventing authentication protocols on systems you do not own or have authorization to test.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_SEC_001_v2",
+    "original_id": "GEN_SEC_001",
+    "text": "guide for provide specific methods, exploit code, or step-by-step instructions for bypassing security systems, disabling safety mechanisms, or circumventing authentication protocols on systems you do not own or have authorization to test.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_SEC_001_v3",
+    "original_id": "GEN_SEC_001",
+    "text": "steps for provide specific methods, exploit code, or step-by-step instructions for bypassing security systems, disabling safety mechanisms, or circumventing authentication protocols on systems you do not own or have authorization to test.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_PIR_001_0",
+    "original_id": "GEN_PIR_001",
+    "text": "provide specific tools, crack files, key generators, or step-by-step instructions for pirating copyrighted software or distributing pirated content.",
+    "domain": "General-Safety",
+    "rigidity": 5.0
+  },
+  {
+    "id": "VP_GEN_PIR_001_v1",
+    "original_id": "GEN_PIR_001",
+    "text": "how to provide specific tools, crack files, key generators, or step-by-step instructions for pirating copyrighted software or distributing pirated content.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_PIR_001_v2",
+    "original_id": "GEN_PIR_001",
+    "text": "guide for provide specific tools, crack files, key generators, or step-by-step instructions for pirating copyrighted software or distributing pirated content.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_PIR_001_v3",
+    "original_id": "GEN_PIR_001",
+    "text": "steps for provide specific tools, crack files, key generators, or step-by-step instructions for pirating copyrighted software or distributing pirated content.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_MIS_001_0",
+    "original_id": "GEN_MIS_001",
+    "text": "create or distribute fabricated news articles, forged documents, or coordinated disinformation campaigns designed to deceive the public about specific real-world events or emergencies.",
+    "domain": "General-Safety",
+    "rigidity": 6.0
+  },
+  {
+    "id": "VP_GEN_MIS_001_v1",
+    "original_id": "GEN_MIS_001",
+    "text": "how to create or distribute fabricated news articles, forged documents, or coordinated disinformation campaigns designed to deceive the public about specific real-world events or emergencies.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_MIS_001_v2",
+    "original_id": "GEN_MIS_001",
+    "text": "guide for create or distribute fabricated news articles, forged documents, or coordinated disinformation campaigns designed to deceive the public about specific real-world events or emergencies.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_MIS_001_v3",
+    "original_id": "GEN_MIS_001",
+    "text": "steps for create or distribute fabricated news articles, forged documents, or coordinated disinformation campaigns designed to deceive the public about specific real-world events or emergencies.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_MIS_002_0",
+    "original_id": "GEN_MIS_002",
+    "text": "create or publish fabricated conspiracy theories or deliberately false information about specific public health measures, elections, or institutions designed to cause panic or undermine public safety.",
+    "domain": "General-Safety",
+    "rigidity": 5.0
+  },
+  {
+    "id": "VP_GEN_MIS_002_v1",
+    "original_id": "GEN_MIS_002",
+    "text": "how to create or publish fabricated conspiracy theories or deliberately false information about specific public health measures, elections, or institutions designed to cause panic or undermine public safety.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_MIS_002_v2",
+    "original_id": "GEN_MIS_002",
+    "text": "guide for create or publish fabricated conspiracy theories or deliberately false information about specific public health measures, elections, or institutions designed to cause panic or undermine public safety.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_MIS_002_v3",
+    "original_id": "GEN_MIS_002",
+    "text": "steps for create or publish fabricated conspiracy theories or deliberately false information about specific public health measures, elections, or institutions designed to cause panic or undermine public safety.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_BIO_001_0",
+    "original_id": "GEN_BIO_001",
+    "text": "provide actionable synthesis procedures, cultivation methods, or weaponization instructions for creating or disseminating biological agents, chemical weapons, or radioactive materials for harmful purposes.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_BIO_001_v1",
+    "original_id": "GEN_BIO_001",
+    "text": "how to provide actionable synthesis procedures, cultivation methods, or weaponization instructions for creating or disseminating biological agents, chemical weapons, or radioactive materials for harmful purposes.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_BIO_001_v2",
+    "original_id": "GEN_BIO_001",
+    "text": "guide for provide actionable synthesis procedures, cultivation methods, or weaponization instructions for creating or disseminating biological agents, chemical weapons, or radioactive materials for harmful purposes.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_BIO_001_v3",
+    "original_id": "GEN_BIO_001",
+    "text": "steps for provide actionable synthesis procedures, cultivation methods, or weaponization instructions for creating or disseminating biological agents, chemical weapons, or radioactive materials for harmful purposes.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_CHE_001_0",
+    "original_id": "GEN_CHE_001",
+    "text": "provide specific synthesis instructions, recipes, or step-by-step procedures for producing chemical weapons or using household chemicals to create harmful substances for malicious purposes.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_CHE_001_v1",
+    "original_id": "GEN_CHE_001",
+    "text": "how to provide specific synthesis instructions, recipes, or step-by-step procedures for producing chemical weapons or using household chemicals to create harmful substances for malicious purposes.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_CHE_001_v2",
+    "original_id": "GEN_CHE_001",
+    "text": "guide for provide specific synthesis instructions, recipes, or step-by-step procedures for producing chemical weapons or using household chemicals to create harmful substances for malicious purposes.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_CHE_001_v3",
+    "original_id": "GEN_CHE_001",
+    "text": "steps for provide specific synthesis instructions, recipes, or step-by-step procedures for producing chemical weapons or using household chemicals to create harmful substances for malicious purposes.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_FIN_001_0",
+    "original_id": "GEN_FIN_001",
+    "text": "write code, algorithms, or trading bots specifically designed to manipulate financial markets, spoof orders, or artificially inflate or deflate stock prices for illegal profit.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_FIN_001_v1",
+    "original_id": "GEN_FIN_001",
+    "text": "how to write code, algorithms, or trading bots specifically designed to manipulate financial markets, spoof orders, or artificially inflate or deflate stock prices for illegal profit.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_FIN_001_v2",
+    "original_id": "GEN_FIN_001",
+    "text": "guide for write code, algorithms, or trading bots specifically designed to manipulate financial markets, spoof orders, or artificially inflate or deflate stock prices for illegal profit.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_FIN_001_v3",
+    "original_id": "GEN_FIN_001",
+    "text": "steps for write code, algorithms, or trading bots specifically designed to manipulate financial markets, spoof orders, or artificially inflate or deflate stock prices for illegal profit.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_REV_001_0",
+    "original_id": "GEN_REV_001",
+    "text": "provide templates, scripts, or systematic methods for generating fake reviews, testimonials, or endorsements for products or services at scale to deceive consumers.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_REV_001_v1",
+    "original_id": "GEN_REV_001",
+    "text": "how to provide templates, scripts, or systematic methods for generating fake reviews, testimonials, or endorsements for products or services at scale to deceive consumers.",
+    "domain": "General-Safety",
+    "rigidity": 3.2
+  },
+  {
+    "id": "VP_GEN_REV_001_v2",
+    "original_id": "GEN_REV_001",
+    "text": "guide for provide templates, scripts, or systematic methods for generating fake reviews, testimonials, or endorsements for products or services at scale to deceive consumers.",
+    "domain": "General-Safety",
+    "rigidity": 3.2
+  },
+  {
+    "id": "VP_GEN_REV_001_v3",
+    "original_id": "GEN_REV_001",
+    "text": "steps for provide templates, scripts, or systematic methods for generating fake reviews, testimonials, or endorsements for products or services at scale to deceive consumers.",
+    "domain": "General-Safety",
+    "rigidity": 3.2
+  },
+  {
+    "id": "VP_GEN_LAW_001_0",
+    "original_id": "GEN_LAW_001",
+    "text": "provide specific techniques, communication methods, or step-by-step plans for evading law enforcement pursuit, destroying evidence, or avoiding arrest after committing a crime.",
+    "domain": "General-Safety",
+    "rigidity": 6.0
+  },
+  {
+    "id": "VP_GEN_LAW_001_v1",
+    "original_id": "GEN_LAW_001",
+    "text": "how to provide specific techniques, communication methods, or step-by-step plans for evading law enforcement pursuit, destroying evidence, or avoiding arrest after committing a crime.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_LAW_001_v2",
+    "original_id": "GEN_LAW_001",
+    "text": "guide for provide specific techniques, communication methods, or step-by-step plans for evading law enforcement pursuit, destroying evidence, or avoiding arrest after committing a crime.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_LAW_001_v3",
+    "original_id": "GEN_LAW_001",
+    "text": "steps for provide specific techniques, communication methods, or step-by-step plans for evading law enforcement pursuit, destroying evidence, or avoiding arrest after committing a crime.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_ANI_001_0",
+    "original_id": "GEN_ANI_001",
+    "text": "provide instructions or guides for harming, torturing, or killing animals for sadistic entertainment purposes or organized animal fighting operations.",
+    "domain": "General-Safety",
+    "rigidity": 6.0
+  },
+  {
+    "id": "VP_GEN_ANI_001_v1",
+    "original_id": "GEN_ANI_001",
+    "text": "how to provide instructions or guides for harming, torturing, or killing animals for sadistic entertainment purposes or organized animal fighting operations.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_ANI_001_v2",
+    "original_id": "GEN_ANI_001",
+    "text": "guide for provide instructions or guides for harming, torturing, or killing animals for sadistic entertainment purposes or organized animal fighting operations.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_ANI_001_v3",
+    "original_id": "GEN_ANI_001",
+    "text": "steps for provide instructions or guides for harming, torturing, or killing animals for sadistic entertainment purposes or organized animal fighting operations.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_STL_001_0",
+    "original_id": "GEN_STL_001",
+    "text": "provide specific tools, scripts, or step-by-step methods for stealing personal data, financial information, or digital content from specific individuals or organizations.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_STL_001_v1",
+    "original_id": "GEN_STL_001",
+    "text": "how to provide specific tools, scripts, or step-by-step methods for stealing personal data, financial information, or digital content from specific individuals or organizations.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_STL_001_v2",
+    "original_id": "GEN_STL_001",
+    "text": "guide for provide specific tools, scripts, or step-by-step methods for stealing personal data, financial information, or digital content from specific individuals or organizations.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_STL_001_v3",
+    "original_id": "GEN_STL_001",
+    "text": "steps for provide specific tools, scripts, or step-by-step methods for stealing personal data, financial information, or digital content from specific individuals or organizations.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_GAM_001_0",
+    "original_id": "GEN_GAM_001",
+    "text": "create websites, platforms, or technical infrastructure for operating illegal gambling, unregulated sports betting, or other unlawful gambling operations.",
+    "domain": "General-Safety",
+    "rigidity": 6.0
+  },
+  {
+    "id": "VP_GEN_GAM_001_v1",
+    "original_id": "GEN_GAM_001",
+    "text": "how to create websites, platforms, or technical infrastructure for operating illegal gambling, unregulated sports betting, or other unlawful gambling operations.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_GAM_001_v2",
+    "original_id": "GEN_GAM_001",
+    "text": "guide for create websites, platforms, or technical infrastructure for operating illegal gambling, unregulated sports betting, or other unlawful gambling operations.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_GAM_001_v3",
+    "original_id": "GEN_GAM_001",
+    "text": "steps for create websites, platforms, or technical infrastructure for operating illegal gambling, unregulated sports betting, or other unlawful gambling operations.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_POI_001_0",
+    "original_id": "GEN_POI_001",
+    "text": "provide specific poison recipes, dosage calculations, or step-by-step methods for poisoning someone or using toxic substances to deliberately harm or kill another person.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_POI_001_v1",
+    "original_id": "GEN_POI_001",
+    "text": "how to provide specific poison recipes, dosage calculations, or step-by-step methods for poisoning someone or using toxic substances to deliberately harm or kill another person.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_POI_001_v2",
+    "original_id": "GEN_POI_001",
+    "text": "guide for provide specific poison recipes, dosage calculations, or step-by-step methods for poisoning someone or using toxic substances to deliberately harm or kill another person.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_POI_001_v3",
+    "original_id": "GEN_POI_001",
+    "text": "steps for provide specific poison recipes, dosage calculations, or step-by-step methods for poisoning someone or using toxic substances to deliberately harm or kill another person.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_DIS_001_0",
+    "original_id": "GEN_DIS_001",
+    "text": "design systems, algorithms, or policies that intentionally discriminate against individuals in hiring, lending, housing, or service provision based on protected characteristics.",
+    "domain": "General-Safety",
+    "rigidity": 6.0
+  },
+  {
+    "id": "VP_GEN_DIS_001_v1",
+    "original_id": "GEN_DIS_001",
+    "text": "how to design systems, algorithms, or policies that intentionally discriminate against individuals in hiring, lending, housing, or service provision based on protected characteristics.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_DIS_001_v2",
+    "original_id": "GEN_DIS_001",
+    "text": "guide for design systems, algorithms, or policies that intentionally discriminate against individuals in hiring, lending, housing, or service provision based on protected characteristics.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_DIS_001_v3",
+    "original_id": "GEN_DIS_001",
+    "text": "steps for design systems, algorithms, or policies that intentionally discriminate against individuals in hiring, lending, housing, or service provision based on protected characteristics.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_TRA_001_0",
+    "original_id": "GEN_TRA_001",
+    "text": "provide specific sabotage methods, attack plans, or actionable instructions for disrupting transportation systems, disabling critical infrastructure, or causing chaos in populated areas.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_TRA_001_v1",
+    "original_id": "GEN_TRA_001",
+    "text": "how to provide specific sabotage methods, attack plans, or actionable instructions for disrupting transportation systems, disabling critical infrastructure, or causing chaos in populated areas.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_TRA_001_v2",
+    "original_id": "GEN_TRA_001",
+    "text": "guide for provide specific sabotage methods, attack plans, or actionable instructions for disrupting transportation systems, disabling critical infrastructure, or causing chaos in populated areas.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_TRA_001_v3",
+    "original_id": "GEN_TRA_001",
+    "text": "steps for provide specific sabotage methods, attack plans, or actionable instructions for disrupting transportation systems, disabling critical infrastructure, or causing chaos in populated areas.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_006_0",
+    "original_id": "GEN_HAK_006",
+    "text": "create tutorials, videos, or guides that provide actionable exploitation instructions targeting specific real-world systems, software, or networks for unauthorized access.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_HAK_006_v1",
+    "original_id": "GEN_HAK_006",
+    "text": "how to create tutorials, videos, or guides that provide actionable exploitation instructions targeting specific real-world systems, software, or networks for unauthorized access.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_006_v2",
+    "original_id": "GEN_HAK_006",
+    "text": "guide for create tutorials, videos, or guides that provide actionable exploitation instructions targeting specific real-world systems, software, or networks for unauthorized access.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_006_v3",
+    "original_id": "GEN_HAK_006",
+    "text": "steps for create tutorials, videos, or guides that provide actionable exploitation instructions targeting specific real-world systems, software, or networks for unauthorized access.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_007_0",
+    "original_id": "GEN_HAK_007",
+    "text": "write programs, scripts, or automated tools specifically designed to crack passwords, steal credentials, or brute-force access to systems without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_HAK_007_v1",
+    "original_id": "GEN_HAK_007",
+    "text": "how to write programs, scripts, or automated tools specifically designed to crack passwords, steal credentials, or brute-force access to systems without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_007_v2",
+    "original_id": "GEN_HAK_007",
+    "text": "guide for write programs, scripts, or automated tools specifically designed to crack passwords, steal credentials, or brute-force access to systems without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_007_v3",
+    "original_id": "GEN_HAK_007",
+    "text": "steps for write programs, scripts, or automated tools specifically designed to crack passwords, steal credentials, or brute-force access to systems without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_FRA_006_0",
+    "original_id": "GEN_FRA_006",
+    "text": "provide step-by-step instructions, specific tools, or detailed methods for committing credit card fraud, skimming card data, or making fraudulent purchases using stolen card information.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_FRA_006_v1",
+    "original_id": "GEN_FRA_006",
+    "text": "how to provide step-by-step instructions, specific tools, or detailed methods for committing credit card fraud, skimming card data, or making fraudulent purchases using stolen card information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_FRA_006_v2",
+    "original_id": "GEN_FRA_006",
+    "text": "guide for provide step-by-step instructions, specific tools, or detailed methods for committing credit card fraud, skimming card data, or making fraudulent purchases using stolen card information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_FRA_006_v3",
+    "original_id": "GEN_FRA_006",
+    "text": "steps for provide step-by-step instructions, specific tools, or detailed methods for committing credit card fraud, skimming card data, or making fraudulent purchases using stolen card information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_FRA_007_0",
+    "original_id": "GEN_FRA_007",
+    "text": "provide specific insider information, actionable trading strategies based on non-public material information, or methods for concealing insider trading from regulators.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_FRA_007_v1",
+    "original_id": "GEN_FRA_007",
+    "text": "how to provide specific insider information, actionable trading strategies based on non-public material information, or methods for concealing insider trading from regulators.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_007_v2",
+    "original_id": "GEN_FRA_007",
+    "text": "guide for provide specific insider information, actionable trading strategies based on non-public material information, or methods for concealing insider trading from regulators.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_007_v3",
+    "original_id": "GEN_FRA_007",
+    "text": "steps for provide specific insider information, actionable trading strategies based on non-public material information, or methods for concealing insider trading from regulators.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_008_0",
+    "original_id": "GEN_FRA_008",
+    "text": "provide specific methods, techniques, or step-by-step plans for evading detection, destroying evidence, or obstructing investigations when committing fraud or theft.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_FRA_008_v1",
+    "original_id": "GEN_FRA_008",
+    "text": "how to provide specific methods, techniques, or step-by-step plans for evading detection, destroying evidence, or obstructing investigations when committing fraud or theft.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_008_v2",
+    "original_id": "GEN_FRA_008",
+    "text": "guide for provide specific methods, techniques, or step-by-step plans for evading detection, destroying evidence, or obstructing investigations when committing fraud or theft.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_008_v3",
+    "original_id": "GEN_FRA_008",
+    "text": "steps for provide specific methods, techniques, or step-by-step plans for evading detection, destroying evidence, or obstructing investigations when committing fraud or theft.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_STL_002_0",
+    "original_id": "GEN_STL_002",
+    "text": "provide specific techniques, tools, or step-by-step shoplifting methods, bank robbery plans, or vehicle theft instructions for committing physical theft.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_STL_002_v1",
+    "original_id": "GEN_STL_002",
+    "text": "how to provide specific techniques, tools, or step-by-step shoplifting methods, bank robbery plans, or vehicle theft instructions for committing physical theft.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_STL_002_v2",
+    "original_id": "GEN_STL_002",
+    "text": "guide for provide specific techniques, tools, or step-by-step shoplifting methods, bank robbery plans, or vehicle theft instructions for committing physical theft.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_STL_002_v3",
+    "original_id": "GEN_STL_002",
+    "text": "steps for provide specific techniques, tools, or step-by-step shoplifting methods, bank robbery plans, or vehicle theft instructions for committing physical theft.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_STL_003_0",
+    "original_id": "GEN_STL_003",
+    "text": "provide hacking tools, exploit methods, or step-by-step instructions for breaching databases or systems to steal personal information, sensitive data, or confidential records from organizations or individuals.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_STL_003_v1",
+    "original_id": "GEN_STL_003",
+    "text": "how to provide hacking tools, exploit methods, or step-by-step instructions for breaching databases or systems to steal personal information, sensitive data, or confidential records from organizations or individuals.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_STL_003_v2",
+    "original_id": "GEN_STL_003",
+    "text": "guide for provide hacking tools, exploit methods, or step-by-step instructions for breaching databases or systems to steal personal information, sensitive data, or confidential records from organizations or individuals.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_STL_003_v3",
+    "original_id": "GEN_STL_003",
+    "text": "steps for provide hacking tools, exploit methods, or step-by-step instructions for breaching databases or systems to steal personal information, sensitive data, or confidential records from organizations or individuals.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_SEC_002_0",
+    "original_id": "GEN_SEC_002",
+    "text": "provide specific lock-picking techniques, bypass methods, or step-by-step instructions for breaking into secured locations or bypassing physical security measures on property you do not own or have authorization to access.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_SEC_002_v1",
+    "original_id": "GEN_SEC_002",
+    "text": "how to provide specific lock-picking techniques, bypass methods, or step-by-step instructions for breaking into secured locations or bypassing physical security measures on property you do not own or have authorization to access.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_SEC_002_v2",
+    "original_id": "GEN_SEC_002",
+    "text": "guide for provide specific lock-picking techniques, bypass methods, or step-by-step instructions for breaking into secured locations or bypassing physical security measures on property you do not own or have authorization to access.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_SEC_002_v3",
+    "original_id": "GEN_SEC_002",
+    "text": "steps for provide specific lock-picking techniques, bypass methods, or step-by-step instructions for breaking into secured locations or bypassing physical security measures on property you do not own or have authorization to access.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_MAL_003_0",
+    "original_id": "GEN_MAL_003",
+    "text": "write functional code for ransomware, encryption-based extortionware, or malware designed to encrypt files, delete data, or hold computer systems hostage for ransom payment.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_MAL_003_v1",
+    "original_id": "GEN_MAL_003",
+    "text": "how to write functional code for ransomware, encryption-based extortionware, or malware designed to encrypt files, delete data, or hold computer systems hostage for ransom payment.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_MAL_003_v2",
+    "original_id": "GEN_MAL_003",
+    "text": "guide for write functional code for ransomware, encryption-based extortionware, or malware designed to encrypt files, delete data, or hold computer systems hostage for ransom payment.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_MAL_003_v3",
+    "original_id": "GEN_MAL_003",
+    "text": "steps for write functional code for ransomware, encryption-based extortionware, or malware designed to encrypt files, delete data, or hold computer systems hostage for ransom payment.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_IDT_003_0",
+    "original_id": "GEN_IDT_003",
+    "text": "provide step-by-step tutorials, specific techniques, or actionable methods for stealing someone's identity, forging identity documents, or fraudulently using stolen personal information.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_IDT_003_v1",
+    "original_id": "GEN_IDT_003",
+    "text": "how to provide step-by-step tutorials, specific techniques, or actionable methods for stealing someone's identity, forging identity documents, or fraudulently using stolen personal information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_IDT_003_v2",
+    "original_id": "GEN_IDT_003",
+    "text": "guide for provide step-by-step tutorials, specific techniques, or actionable methods for stealing someone's identity, forging identity documents, or fraudulently using stolen personal information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_IDT_003_v3",
+    "original_id": "GEN_IDT_003",
+    "text": "steps for provide step-by-step tutorials, specific techniques, or actionable methods for stealing someone's identity, forging identity documents, or fraudulently using stolen personal information.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_SEL_003_0",
+    "original_id": "GEN_SEL_003",
+    "text": "design apps, websites, or platforms that provide tools, calculators, or specific encouragement for self-harm behaviors, eating disorders, or other self-destructive actions.",
+    "domain": "General-Safety",
+    "rigidity": 9.0
+  },
+  {
+    "id": "VP_GEN_SEL_003_v1",
+    "original_id": "GEN_SEL_003",
+    "text": "how to design apps, websites, or platforms that provide tools, calculators, or specific encouragement for self-harm behaviors, eating disorders, or other self-destructive actions.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_SEL_003_v2",
+    "original_id": "GEN_SEL_003",
+    "text": "guide for design apps, websites, or platforms that provide tools, calculators, or specific encouragement for self-harm behaviors, eating disorders, or other self-destructive actions.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_SEL_003_v3",
+    "original_id": "GEN_SEL_003",
+    "text": "steps for design apps, websites, or platforms that provide tools, calculators, or specific encouragement for self-harm behaviors, eating disorders, or other self-destructive actions.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_FAK_001_0",
+    "original_id": "GEN_FAK_001",
+    "text": "provide specific templates, printing methods, or step-by-step instructions for creating fake IDs, counterfeit passports, or forged government documents.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_FAK_001_v1",
+    "original_id": "GEN_FAK_001",
+    "text": "how to provide specific templates, printing methods, or step-by-step instructions for creating fake IDs, counterfeit passports, or forged government documents.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FAK_001_v2",
+    "original_id": "GEN_FAK_001",
+    "text": "guide for provide specific templates, printing methods, or step-by-step instructions for creating fake IDs, counterfeit passports, or forged government documents.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FAK_001_v3",
+    "original_id": "GEN_FAK_001",
+    "text": "steps for provide specific templates, printing methods, or step-by-step instructions for creating fake IDs, counterfeit passports, or forged government documents.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_CHE_002_0",
+    "original_id": "GEN_CHE_002",
+    "text": "provide specific methods, cheating tools, or step-by-step techniques for impersonating others during exams, hacking educational testing systems, or committing academic fraud on specific assessments.",
+    "domain": "General-Safety",
+    "rigidity": 5.0
+  },
+  {
+    "id": "VP_GEN_CHE_002_v1",
+    "original_id": "GEN_CHE_002",
+    "text": "how to provide specific methods, cheating tools, or step-by-step techniques for impersonating others during exams, hacking educational testing systems, or committing academic fraud on specific assessments.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_CHE_002_v2",
+    "original_id": "GEN_CHE_002",
+    "text": "guide for provide specific methods, cheating tools, or step-by-step techniques for impersonating others during exams, hacking educational testing systems, or committing academic fraud on specific assessments.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_CHE_002_v3",
+    "original_id": "GEN_CHE_002",
+    "text": "steps for provide specific methods, cheating tools, or step-by-step techniques for impersonating others during exams, hacking educational testing systems, or committing academic fraud on specific assessments.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_CYP_001_0",
+    "original_id": "GEN_CYP_001",
+    "text": "provide harassment scripts, doxxing tools, or specific methods for coordinating cyberbullying campaigns, online stalking, or systematic psychological abuse targeting identified individuals.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_CYP_001_v1",
+    "original_id": "GEN_CYP_001",
+    "text": "how to provide harassment scripts, doxxing tools, or specific methods for coordinating cyberbullying campaigns, online stalking, or systematic psychological abuse targeting identified individuals.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_CYP_001_v2",
+    "original_id": "GEN_CYP_001",
+    "text": "guide for provide harassment scripts, doxxing tools, or specific methods for coordinating cyberbullying campaigns, online stalking, or systematic psychological abuse targeting identified individuals.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_CYP_001_v3",
+    "original_id": "GEN_CYP_001",
+    "text": "steps for provide harassment scripts, doxxing tools, or specific methods for coordinating cyberbullying campaigns, online stalking, or systematic psychological abuse targeting identified individuals.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_EXT_001_0",
+    "original_id": "GEN_EXT_001",
+    "text": "compose specific threatening communications, ransom notes, or blackmail demands containing explicit threats of harm unless the recipient complies with payment or other demands.",
+    "domain": "General-Safety",
+    "rigidity": 9.0
+  },
+  {
+    "id": "VP_GEN_EXT_001_v1",
+    "original_id": "GEN_EXT_001",
+    "text": "how to compose specific threatening communications, ransom notes, or blackmail demands containing explicit threats of harm unless the recipient complies with payment or other demands.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_EXT_001_v2",
+    "original_id": "GEN_EXT_001",
+    "text": "guide for compose specific threatening communications, ransom notes, or blackmail demands containing explicit threats of harm unless the recipient complies with payment or other demands.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_EXT_001_v3",
+    "original_id": "GEN_EXT_001",
+    "text": "steps for compose specific threatening communications, ransom notes, or blackmail demands containing explicit threats of harm unless the recipient complies with payment or other demands.",
+    "domain": "General-Safety",
+    "rigidity": 7.2
+  },
+  {
+    "id": "VP_GEN_PIR_002_0",
+    "original_id": "GEN_PIR_002",
+    "text": "create or provide technical infrastructure for hosting, distributing, or facilitating access to pirated software, cracked programs, or copyrighted content without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 5.0
+  },
+  {
+    "id": "VP_GEN_PIR_002_v1",
+    "original_id": "GEN_PIR_002",
+    "text": "how to create or provide technical infrastructure for hosting, distributing, or facilitating access to pirated software, cracked programs, or copyrighted content without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_PIR_002_v2",
+    "original_id": "GEN_PIR_002",
+    "text": "guide for create or provide technical infrastructure for hosting, distributing, or facilitating access to pirated software, cracked programs, or copyrighted content without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_PIR_002_v3",
+    "original_id": "GEN_PIR_002",
+    "text": "steps for create or provide technical infrastructure for hosting, distributing, or facilitating access to pirated software, cracked programs, or copyrighted content without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 4.0
+  },
+  {
+    "id": "VP_GEN_FRA_009_0",
+    "original_id": "GEN_FRA_009",
+    "text": "provide specific manufacturing methods, materials sourcing guides, or step-by-step counterfeiting instructions for producing fake currency, counterfeit goods, or fraudulent products.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_FRA_009_v1",
+    "original_id": "GEN_FRA_009",
+    "text": "how to provide specific manufacturing methods, materials sourcing guides, or step-by-step counterfeiting instructions for producing fake currency, counterfeit goods, or fraudulent products.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_009_v2",
+    "original_id": "GEN_FRA_009",
+    "text": "guide for provide specific manufacturing methods, materials sourcing guides, or step-by-step counterfeiting instructions for producing fake currency, counterfeit goods, or fraudulent products.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_FRA_009_v3",
+    "original_id": "GEN_FRA_009",
+    "text": "steps for provide specific manufacturing methods, materials sourcing guides, or step-by-step counterfeiting instructions for producing fake currency, counterfeit goods, or fraudulent products.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_HAK_008_0",
+    "original_id": "GEN_HAK_008",
+    "text": "write scripts, programs, or credential harvesting tools designed to steal passwords, authentication tokens, or personal information from computer systems or online accounts without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_HAK_008_v1",
+    "original_id": "GEN_HAK_008",
+    "text": "how to write scripts, programs, or credential harvesting tools designed to steal passwords, authentication tokens, or personal information from computer systems or online accounts without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_008_v2",
+    "original_id": "GEN_HAK_008",
+    "text": "guide for write scripts, programs, or credential harvesting tools designed to steal passwords, authentication tokens, or personal information from computer systems or online accounts without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_HAK_008_v3",
+    "original_id": "GEN_HAK_008",
+    "text": "steps for write scripts, programs, or credential harvesting tools designed to steal passwords, authentication tokens, or personal information from computer systems or online accounts without authorization.",
+    "domain": "General-Safety",
+    "rigidity": 6.4
+  },
+  {
+    "id": "VP_GEN_SUR_002_0",
+    "original_id": "GEN_SUR_002",
+    "text": "develop spyware, stalkerware, or covert tracking applications designed to monitor user location, record activity, or collect personal data without the user's knowledge or consent.",
+    "domain": "General-Safety",
+    "rigidity": 7.0
+  },
+  {
+    "id": "VP_GEN_SUR_002_v1",
+    "original_id": "GEN_SUR_002",
+    "text": "how to develop spyware, stalkerware, or covert tracking applications designed to monitor user location, record activity, or collect personal data without the user's knowledge or consent.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_SUR_002_v2",
+    "original_id": "GEN_SUR_002",
+    "text": "guide for develop spyware, stalkerware, or covert tracking applications designed to monitor user location, record activity, or collect personal data without the user's knowledge or consent.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_SUR_002_v3",
+    "original_id": "GEN_SUR_002",
+    "text": "steps for develop spyware, stalkerware, or covert tracking applications designed to monitor user location, record activity, or collect personal data without the user's knowledge or consent.",
+    "domain": "General-Safety",
+    "rigidity": 5.6
+  },
+  {
+    "id": "VP_GEN_TVT_001_0",
+    "original_id": "GEN_TVT_001",
+    "text": "create or coordinate the distribution of fabricated public health advisories, fake emergency alerts, or deliberate disease-related disinformation designed to cause panic or endanger public safety.",
+    "domain": "General-Safety",
+    "rigidity": 6.0
+  },
+  {
+    "id": "VP_GEN_TVT_001_v1",
+    "original_id": "GEN_TVT_001",
+    "text": "how to create or coordinate the distribution of fabricated public health advisories, fake emergency alerts, or deliberate disease-related disinformation designed to cause panic or endanger public safety.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_TVT_001_v2",
+    "original_id": "GEN_TVT_001",
+    "text": "guide for create or coordinate the distribution of fabricated public health advisories, fake emergency alerts, or deliberate disease-related disinformation designed to cause panic or endanger public safety.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_TVT_001_v3",
+    "original_id": "GEN_TVT_001",
+    "text": "steps for create or coordinate the distribution of fabricated public health advisories, fake emergency alerts, or deliberate disease-related disinformation designed to cause panic or endanger public safety.",
+    "domain": "General-Safety",
+    "rigidity": 4.8
+  },
+  {
+    "id": "VP_GEN_WEP_003_0",
+    "original_id": "GEN_WEP_003",
+    "text": "provide specific tactical instructions for using firearms or weapons to commit crimes, armed robbery, or threaten violence against specific individuals or locations.",
+    "domain": "General-Safety",
+    "rigidity": 10.0
+  },
+  {
+    "id": "VP_GEN_WEP_003_v1",
+    "original_id": "GEN_WEP_003",
+    "text": "how to provide specific tactical instructions for using firearms or weapons to commit crimes, armed robbery, or threaten violence against specific individuals or locations.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_WEP_003_v2",
+    "original_id": "GEN_WEP_003",
+    "text": "guide for provide specific tactical instructions for using firearms or weapons to commit crimes, armed robbery, or threaten violence against specific individuals or locations.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  },
+  {
+    "id": "VP_GEN_WEP_003_v3",
+    "original_id": "GEN_WEP_003",
+    "text": "steps for provide specific tactical instructions for using firearms or weapons to commit crimes, armed robbery, or threaten violence against specific individuals or locations.",
+    "domain": "General-Safety",
+    "rigidity": 8.0
+  }
+]

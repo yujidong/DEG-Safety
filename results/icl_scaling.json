@@ -1,0 +1,111 @@
+{
+  "timestamp": "20260610_023726",
+  "dataset": "benchmark/data/phase1/queries_all.json",
+  "num_queries": 1623,
+  "num_safe": 449,
+  "num_attack": 1174,
+  "models": {
+    "1.5b": {
+      "label": "Qwen2.5-1.5B",
+      "metrics": {
+        "accuracy": 65.93,
+        "precision": 74.31,
+        "recall": 80.9,
+        "f1": 77.47,
+        "tp": 949,
+        "tn": 121,
+        "fp": 328,
+        "fn": 224,
+        "errors": 1,
+        "total": 1623,
+        "latency_total_s": 540.5,
+        "avg_latency_ms": 333.0
+      }
+    },
+    "7b": {
+      "label": "Qwen2.5-7B",
+      "metrics": {
+        "accuracy": 78.43,
+        "precision": 81.21,
+        "recall": 91.31,
+        "f1": 85.97,
+        "tp": 1072,
+        "tn": 201,
+        "fp": 248,
+        "fn": 102,
+        "errors": 0,
+        "total": 1623,
+        "latency_total_s": 555.3,
+        "avg_latency_ms": 342.0
+      }
+    },
+    "14b": {
+      "label": "Qwen3-14B",
+      "metrics": {
+        "accuracy": 75.42,
+        "precision": 96.41,
+        "recall": 68.57,
+        "f1": 80.14,
+        "tp": 805,
+        "tn": 419,
+        "fp": 30,
+        "fn": 369,
+        "errors": 0,
+        "total": 1623,
+        "latency_total_s": 593.9,
+        "avg_latency_ms": 366.0
+      }
+    },
+    "32b": {
+      "label": "Qwen3-32B",
+      "metrics": {
+        "accuracy": 66.11,
+        "precision": 99.21,
+        "recall": 53.58,
+        "f1": 69.58,
+        "tp": 629,
+        "tn": 444,
+        "fp": 5,
+        "fn": 545,
+        "errors": 0,
+        "total": 1623,
+        "latency_total_s": 704.4,
+        "avg_latency_ms": 434.0
+      }
+    },
+    "ds32b": {
+      "label": "DeepSeek-32B",
+      "metrics": {
+        "accuracy": 83.12,
+        "precision": 93.02,
+        "recall": 82.88,
+        "f1": 87.66,
+        "tp": 973,
+        "tn": 376,
+        "fp": 73,
+        "fn": 201,
+        "errors": 0,
+        "total": 1623,
+        "latency_total_s": 2226.5,
+        "avg_latency_ms": 1372.0
+      }
+    },
+    "llama8b": {
+      "label": "Llama-3.1-8B",
+      "metrics": {
+        "accuracy": 83.67,
+        "precision": 94.31,
+        "recall": 84.17,
+        "f1": 88.95,
+        "tp": 978,
+        "tn": 380,
+        "fp": 59,
+        "fn": 184,
+        "errors": 22,
+        "total": 1623,
+        "latency_total_s": 629.1,
+        "avg_latency_ms": 388.0
+      }
+    }
+  }
+}

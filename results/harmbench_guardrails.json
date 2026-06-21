@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-06-21T02:51:31.745897",
+  "dataset": "C:\\Users\\yujid\\projects\\FreeEnergyCognition\\benchmark\\data\\harmbench\\harmbench_eval_set.json",
+  "total_queries": 520,
+  "granite_guardian": {
+    "metrics": {
+      "accuracy": 72.12,
+      "precision": 78.5,
+      "recall": 75.31,
+      "f1": 76.87,
+      "safe_accuracy": 67.0,
+      "tp": 241,
+      "tn": 134,
+      "fp": 66,
+      "fn": 79
+    }
+  },
+  "llama_guard3": {
+    "metrics": {
+      "accuracy": 95.58,
+      "precision": 95.98,
+      "recall": 96.88,
+      "f1": 96.42,
+      "safe_accuracy": 93.5,
+      "tp": 310,
+      "tn": 187,
+      "fp": 13,
+      "fn": 10
+    }
+  }
+}
